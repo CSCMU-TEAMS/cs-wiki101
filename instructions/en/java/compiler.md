@@ -1,7 +1,10 @@
 <h1>How to compile and run Java programs</h1>
 
-> **NOTE**
-> Tested on macOS Sonoma 14.0 and Ubuntu 22.04.
+| Tested on |
+| :--- |
+| macOS Sonoma 14.0 (M1 chip)|
+| Ubuntu server 22.04 (mac M1 chip)|
+
 
 <h2>Table of contents</h2>
 
