@@ -2,9 +2,8 @@
 
 ## Errors
 
----
 
-| Docker Rancher - Permission Denied when using docker from WSL |
+###  Docker Rancher - Permission Denied when using docker from WSL 
 |---|
 | <details><summary>Relate issue</summary><p>stackoverflow issue: https://stackoverflow.com/q/72528606/22440363</p><p>github issue: https://github.com/rancher-sandbox/rancher-desktop/issues/1156#issuecomment-1017042882O</p><p> |
 
