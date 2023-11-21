@@ -9,7 +9,7 @@
 ## Errors
 
 
-###  Docker Rancher - Permission Denied when using docker from WSL 
+###  Docker Rancher - Permission Denied when using docker from WSL
 
 | Relate issue |
 |---|
