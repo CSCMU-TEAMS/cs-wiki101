@@ -4,7 +4,6 @@
 
 - [Errors](#errors)
   - [Docker Rancher - Permission Denied when using docker from WSL](#docker-rancher---permission-denied-when-using-docker-from-wsl)
-    - [Solution](#solution)
 
 ## Errors
 
@@ -20,7 +19,8 @@
     Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json": dial unix /var/run/docker.sock: connect: permission denied
 ```
 
-#### Solution
+<h3>Solution</h3>
+
 
 ```shell
 sudo addgroup --system docker
