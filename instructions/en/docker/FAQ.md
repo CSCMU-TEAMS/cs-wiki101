@@ -6,13 +6,11 @@
 
 <table>
   <tr>
-    <th>Issue</th>
-    <th>Fix</th>
+    <th>Docker Rancher - Permission Denied when using docker from WSL</th>
+    
   </tr>
   <tr>
     <td>
-
-### Docker Rancher - Permission Denied when using docker from WSL
 
 stackoverflow issue: https://stackoverflow.com/q/72528606/22440363
 
@@ -21,9 +19,7 @@ $ docker ps
 Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json": dial unix /var/run/docker.sock: connect: permission denied
 ```
 
-</td>
-    <td>
-
+#### Solution
 
 ```shell
 sudo addgroup --system docker
