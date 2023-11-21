@@ -1,13 +1,16 @@
 <h1>How to compile and run Java programs</h1>
 
-| Tested on |
-| :--- |
-| macOS Sonoma 14.0 (M1 chip)|
-| Ubuntu server 22.04 (mac M1 chip)|
+## Tested on
+
+| Operating System | Architecture |
+| :--- | :--- |
+| macOS Sonoma 14.0 | M1 chip|
+| Ubuntu server 22.04 | M1 chip |
 
 
 <h2>Table of contents</h2>
 
+- [Tested on](#tested-on)
 - [Single-file source-code programs](#single-file-source-code-programs)
   - [JAVAC: Java Compiler](#javac-java-compiler)
 - [Multi-file source-code programs](#multi-file-source-code-programs)
