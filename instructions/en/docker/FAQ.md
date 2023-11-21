@@ -1,4 +1,10 @@
-# FAQ
+<h1>FAQ</h1>
+
+<h2>Table of contents</h2>
+
+- [Errors](#errors)
+  - [Docker Rancher - Permission Denied when using docker from WSL](#docker-rancher---permission-denied-when-using-docker-from-wsl)
+    - [Solution](#solution)
 
 ## Errors
 
