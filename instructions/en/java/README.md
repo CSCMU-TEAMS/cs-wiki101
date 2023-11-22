@@ -8,13 +8,17 @@
   <p>Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies.</p>
 </div>
 
-> **NOTE**
-> Tested on macOS Sonoma 14.0 and Ubuntu 22.04.
+| Tested on | Architecture | Version |
+| --- | --- | --- |
+| MacOS | Apple M1 | 14.1.1 |
+| Ubuntu | Aplle M1 | 22.04 |
 
 <h2>Table of Contents</h2>
 
 - [Introduction](#introduction)
 - [Installation](#installation)
+  - [macOS (OS X)](#macos-os-x)
+  - [Ubuntu 22.04](#ubuntu-2204)
 - [How to compile and run Java programs](#how-to-compile-and-run-java-programs)
 - [Resources](#resources)
 
@@ -23,6 +27,8 @@
 This guide will help you install Java on macOS using Homebrew.
 
 ## Installation
+
+### macOS (OS X)
 
 1. Install Homebrew by follow the instructions provided in the [installation homebrew](homebrew.md#install_homebrew) to install Homebrew on macOS.
 
@@ -73,6 +79,32 @@ For compilers to find openjdk you may need to set:
 ```
 
 </details>
+
+### Ubuntu 22.04
+
+1. Update the package index:
+
+    ```shell
+    sudo apt update
+    ```
+
+2. Upgrade the package index:
+
+    ```shell
+    sudo apt upgrade
+    ```
+
+3. Install Java:
+
+    ```shell
+    sudo apt install default-jdk
+    ```
+
+4. Verify that Java is installed correctly by running the command:
+
+    ```shell
+    java --version
+    ```
 
 ## How to compile and run Java programs
 
