@@ -9,7 +9,7 @@ This wiki is designed to assist computer science students at `Chiang Mai Univers
 > You can also explore [my roadmap](https://github.com/AppleBoiy/AppleBoiy/blob/main/README.md#whats-on-my-to-do-list) to see what's on my to-do list.
 
 
-# [Explore the Wiki &#10148;](https://github.com/AppleBoiy/cs-wiki101/wiki)
+# [Explore the Wiki &#10148;](https://github.com/CSCMU-65s/cs-wiki101/tree/main/instructions/en)
 
 ---
 
