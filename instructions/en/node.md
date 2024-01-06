@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://www.javascript.com/">
-        <img src="/img/nodejs/jsicon.png" alt="Javascript Logo" width="100" height="100">
+        <img src="/img/nodejs/jsicon.png" alt="Javascript Logo" width="200" height="200">
     </a>
     <h1>Javascript Installation Guide</h1>
         <p>Javascript is an open-source programming language developed by Google that makes it easy to build simple, reliable, and efficient software.</p>
