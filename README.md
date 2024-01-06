@@ -11,12 +11,6 @@ This wiki is designed to assist computer science students at `Chiang Mai Univers
 
 # [Explore the Wiki &#10148;](https://github.com/AppleBoiy/cs-wiki101/wiki)
 
-### Contributing
-
-#### Images problem when using `.png` images
-
-For obvious reasons this wiki cannot use `.png` images (I tried, but I have no idea why it doesn't work). Instead, I use `.jpeg` images. If you want to contribute, please use `.jpeg` images.
-
 ---
 
 Need assistance? Check out my [discussion board](https://github.com/AppleBoiy/cs-wiki101/discussions) or review the [GitHub status page](https://www.githubstatus.com).

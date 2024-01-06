@@ -13,7 +13,7 @@
 
 1. **Open Terminal:** Press <kbd>Command + Spacebar</kbd> to open Spotlight Search, type `Terminal`, and press <kbd>Enter</kbd> to open the Terminal application.
    > **NOTE**
-   > For more information please see [how to open Terminal in macOS](/instructions/how_to_open_Terminal.md)
+   > For more information please see [how to open Terminal in macOS](/instructions/en/how_to_open_Terminal.md)
 
 2. **Install Homebrew:** Once the Command Line Tools are installed, you can install Homebrew by executing the following command in Terminal:
 
