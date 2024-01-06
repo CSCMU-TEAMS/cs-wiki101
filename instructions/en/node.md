@@ -44,7 +44,7 @@ brew install node@18
 
 1. Go to the [Node.js release page](https://nodejs.org/en/download/releases/) and download the installer for your operating system.
 
-<img src="/img/nodejs/node_releases_page.png" width="600">
+<img src="/img/nodejs/node_releases_page.png" width="800">
 ---
 
 Need assistance? Check out my [discussion board](https://github.com/AppleBoiy/cs-wiki101/discussions) or review the [GitHub status page](https://www.githubstatus.com).
