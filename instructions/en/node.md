@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://golang.org/">
-        <img src="https://banner2.cleanpng.com/20180523/pvs/kisspng-javascript-library-web-browser-javascript-engine-c-basenet-technology-sdn-bhd-5b051580656d74.8520010115270598404155.jpg"/>
+        <img src="https://github.com/AppleBoiy/tmp/blob/69123a87769e91fe2bc9f66e87f14feee78bdb61/img/jsicon.png"/>
     </a>
     <h1>Javascript Installation Guide</h1>
         <p>Javascript is an open-source programming language developed by Google that makes it easy to build simple, reliable, and efficient software.</p>
