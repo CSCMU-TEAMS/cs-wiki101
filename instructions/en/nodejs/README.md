@@ -15,8 +15,6 @@
 
 **Fact**: Normally, Javascript and Node.js are installed together. However, you can install them separately. (I don't know why you would want to do that, but you can.)
 
----
-
 ## Table of Contents
 
 There is a serveral ways to install Node.js. You can choose `one` of the following methods.
