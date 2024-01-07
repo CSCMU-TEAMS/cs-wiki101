@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="https://www.freecodecamp.org/news/content/images/2022/07/1200px-Node.js_logo.svg.png" alt="Node.js Logo" width="200">
 
 </div>
