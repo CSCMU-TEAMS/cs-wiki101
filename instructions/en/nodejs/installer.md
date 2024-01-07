@@ -19,8 +19,16 @@ For this instruction, we will use the version 18.x.x (LTS) for this course. If y
 
 3. Open installer file and follow the instructions to install Node.js.
 
-    <img src="/img/nodejs/node_installer_pkg.png" width="300">
-    <img src="/img/nodejs/node_installer_instructions.png" width="600">
+<table>
+    <tr>
+        <td>
+            <img src="/img/nodejs/node_installer_pkg.png" width="300">
+        </td>
+        <td>
+            <img src="/img/nodejs/node_installer_instructions.png" width="600">
+        </td>
+    </tr>
+</table>
 
 ## Step 2. Verify Installation
 
