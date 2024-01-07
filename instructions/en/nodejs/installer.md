@@ -13,11 +13,9 @@ For this instruction, we will use the version 18.x.x (LTS) for this course. If y
 
 1. Go to the [Node.js release page](https://nodejs.org/en/blog/release/v18.12.0) and download the installer for your operating system.
 
-2. Choose version 18.x.x (LTS) and download for your operating system (For this course, we will be using version 18.x.x (LTS) if you want to use different version, you can choose the version you want).
     <img src="/img/nodejs/node_installer_page.png" width="800">
 
-
-3. Open installer file and follow the instructions to install Node.js.
+2. Open installer file and follow the instructions to install Node.js.
 
 <table>
     <tr>
