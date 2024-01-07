@@ -17,7 +17,7 @@
 
 ## Table of Contents
 
-<p>There is a serveral ways to install Node.js. You can choose `one` of the following methods.</p>
+There is a serveral ways to install Node.js. You can choose `one` of the following methods.
 
 - [via Homebrew](./homebrew.md#via-homebrew)
 - [via Node Version Manager (NVM)](./nvm.md#via-node-version-manager-nvm)
