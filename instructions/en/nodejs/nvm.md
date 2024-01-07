@@ -59,7 +59,7 @@ This one of the references that I used to create this instruction. for more info
 | Source | Description |
 | --- | --- |
 | [Node.js](https://nodejs.org/en/) | Node.js website |
-| [Node Version Manager](github.com/nvm-sh/nvm) | GitHub repository for NVM |
+| [Node Version Manager](https://github.com/nvm-sh/nvm) | GitHub repository for NVM |
 
 ---
 
