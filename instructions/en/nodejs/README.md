@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://www.javascript.com/">
-        <img src="/img/nodejs/jsicon.png" alt="Javascript Logo" width="200" height="200">
+        <img src="/img/nodejs/jsicon.png" alt="Javascript Logo" width="400" height="400">
     </a>
     <h1>JavaScript and Node.js</h1>
       <p>JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Source: <a href="https://www.javascript.com/">javascript.com</a>)</p>
