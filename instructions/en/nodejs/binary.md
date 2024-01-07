@@ -1,44 +1,5 @@
-<a name="top"></a>
 
-<div align="center">
-    <a href="https://www.javascript.com/">
-        <img src="/img/nodejs/jsicon.png" alt="Javascript Logo" width="200" height="200">
-    </a>
-    <h1>Javascript Installation Guide</h1>
-        <p>Javascript is an open-source programming language developed by Google that makes it easy to build simple, reliable, and efficient software.</p>
-</div>
-
-> **NOTE**
-> Tested on macOS Sonoma 14.0
-
-**Fact**: Normally, Javascript and Node.js are installed together. However, you can install them separately. (I don't know why you would want to do that, but you can.)
-
-## via Homebrew
-
-### Step 1: Install Homebrew
-
-> **NOTE**
-> If you already have `Homebrew` installed, you can skip these steps.
-
-Follow the instructions provided in the [installation homebrew](homebrew.md#install_homebrew) to install Homebrew on macOS.
-
-### Step 2. Install Node.js
-
-Run the following command to install Node.js:
-
-```shell
-brew install node
-```
-
-> **NOTE**
-> Install Node.js using the command above will install the latest version of Node.js. If you want to install a specific version of Node.js, you can run the following command:
-
-```shell
-# brew install node@<version>
-brew install node@18
-```
-
-## via Binary distribution
+## Node.js via Binary distribution
 
 ### Step 1. Download Node.js
 
@@ -60,7 +21,7 @@ brew install node@18
    > **NOTE**
    > For more information please see [how to open Terminal in macOS](/instructions/en/how_to_open_Terminal.md)
 
-2. Once you have downloaded, open the Terminal application and navigate to the directory where you downloaded binary file. 
+2. Once you have downloaded, open the Terminal application and navigate to the directory where you downloaded binary file.
 
    ```shell
    cd ~/Downloads
