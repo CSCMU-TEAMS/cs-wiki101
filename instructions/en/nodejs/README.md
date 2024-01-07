@@ -8,8 +8,10 @@
       <p>JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Source: <a href="https://www.javascript.com/">javascript.com</a>)</p>
 </div>
 
-> **NOTE**
-> Tested on macOS Sonoma 14.0
+
+| Tested on | Architecture | Version |
+| --- | --- | --- |
+| MacOS | Apple M1 | 14.2.1 |
 
 **Fact**: Normally, Javascript and Node.js are installed together. However, you can install them separately. (I don't know why you would want to do that, but you can.)
 
