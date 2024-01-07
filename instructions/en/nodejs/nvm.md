@@ -1,13 +1,16 @@
+<div style="text-align: center;">
+    <img src="/img/nodejs/nvm-logo-black.png" alt="NVM Logo" width="200">
+</div>
 
-## Node.js via Node Version Manager (NVM)
+# Node.js via Node Version Manager (NVM)
 
 For more information about NVM, please see [nvm-sh/nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-### Step 1. Install NVM
+## Step 1. Install NVM
 
 There is a serveral ways to install NVM. You can choose one of the following methods.
 
-#### Method 1: Install NVM using Homebrew
+### Method 1: Install NVM using Homebrew
 
 > **NOTE**
 > If you already have `Homebrew` installed, you can skip these steps.

@@ -1,7 +1,7 @@
 
-## Node.js via Binary distribution
+# Node.js via Binary distribution
 
-### Step 1. Download Node.js
+## Step 1. Download Node.js
 
 1. Go to the [Node.js release page](https://nodejs.org/en/download/releases/) and download the installer for your operating system.
 
@@ -15,7 +15,7 @@
 
 <img src="/img/nodejs/node_index.png" width="800">
 
-### Step 2. Install Node.js
+## Step 2. Install Node.js
 
 1. **Open Terminal:** Press <kbd>Command + Spacebar</kbd> to open Spotlight Search, type `Terminal`, and press <kbd>Enter</kbd> to open the Terminal application.
    > **NOTE**
