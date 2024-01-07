@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/img/nodejs/nvm-logo-black.png" alt="NVM Logo" width="200">
+    <img src="/img/nodejs/nvm-logo-black.png" alt="NVM Logo" width="400">
 </div>
 
 # Node.js via Node Version Manager (NVM)
